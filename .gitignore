@@ -1,0 +1,4 @@
+world.pkl
+__pycache__/
+*.pyc
+reference/
